@@ -28,6 +28,19 @@ void insert_node(Node *&head,int val)
     tmp->next = newNode;
 
 }
+int node_size(Node *head){
+    int len = 0;
+    Node *tmp = head;
+    if(head == NULL){
+        return 0;
+    }
+    while(tmp != NULL){
+            len++;
+        tmp=tmp->next;
+    }
+    return len;
+
+}
 void delete_node_by_position(Node *&head,int pos)
 {
     Node *tmp = head;
@@ -81,9 +94,13 @@ int main()
     }
     cout<<"Enter the position to delete : ";
     cin>>pos;
+    int len = node_size(head);
+    if(pos>len){
+        cout<<"invalid";
+    }else{
     delete_node_by_position(head,pos);
     display(head);
-
+    }
     return 0;
 }
 
