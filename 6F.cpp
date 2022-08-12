@@ -41,8 +41,6 @@ int main()
         cin>>arr[i];
     }
 
-    sort(arr,arr+n);
-
         int index = binarySearch(arr,value,0,n-1);
 
         if(index != -1)
