@@ -14,11 +14,11 @@
 </li>
 <h6>2. Given an integer N. Write a program to print all prime numbers between 1 and N.</h6>
 <li>
-       Sample input:<br>
+       Sample input:
        5<br>
 
-       Sample output:<br>
-       2 3 5 <br>
+       Sample output:
+       2 3 5
 
 
 </li>
