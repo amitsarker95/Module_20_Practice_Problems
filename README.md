@@ -101,7 +101,7 @@ LQ  RQ<br>
           <b>4</b> 5 <b>6</b><br>
           7 8 9<br>
           Sample output:<br>
-          10
+          10<br>
           [Here ,highlighted  4 is located in the 2nd row and 1st column , 6 is located in the 2nd row  and 3rd column. ]<br>
 </li>
 <h6>9. Given an integer array A with size N and k. Write a program to find out how many pairs exist in array A whose sum is equal to k.</h6>
