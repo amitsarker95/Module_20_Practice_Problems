@@ -100,7 +100,7 @@ LQ  RQ<br>
           1 2 3<br>
           <b>4</b> 5 <b>6</b><br>
           7 8 9<br>
-          Sample output:
+          Sample output:<br>
           10
           [Here ,highlighted  4 is located in the 2nd row and 1st column , 6 is located in the 2nd row  and 3rd column. ]<br>
 </li>
