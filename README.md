@@ -44,10 +44,10 @@ LQ  RQ<br>
       4 6<br>
       2 4<br>
 
-      Sample output:<br>
-      6<br>
-      15<br>
-      9<br>
+      Sample output:
+      6
+      15
+      9
 </li>
 <h6>5. Given an integer array A with size N and an integer Q for queries, where
 (0 <  N < 10^5) , (-10^7 < Ai  < 10^7) and (0 < Q < 10^7) .
@@ -70,28 +70,28 @@ LQ  RQ<br>
        4 6<br>
        2 4<br>
 
-       Sample output:<br>
-       4<br>
-       11<br>
-       3<br>
+       Sample output:
+       4
+       11
+       3
 </li>
 <h6>6. Given a sorted integer array A with size N integers and an integer k. Write a program to find out the position of k from array A using binary search. 
 </h6>
 <li>
-        Sample input:<br>
-        7 9<br>
-        1 2 3 4 9 7 8<br>
-        Sample output:<br>
-        5<br>
+        Sample input:
+        7 9
+        1 2 3 4 9 7 8
+        Sample output:
+        5
 </li>
 <h6>7. Given an integer array A with size N. Write a program to print the number of distinct integers in A.</h6>
 <li>
-        Sample input:<br>
-        7<br>
-        2 3 3 4 5 5 5 <br>
+        Sample input:
+        7
+        2 3 3 4 5 5 5 
 
-        Sample output:<br>
-        4<br>
+        Sample output:
+        4
 </li>
 <h6>8. Given a matrix A with dimension n*m. Write a program to print the sum of the elements where the rows are even and the columns are odd .</h6>
 <li>
@@ -100,8 +100,8 @@ LQ  RQ<br>
           1 2 3<br>
           <b>4</b> 5 <b>6</b><br>
           7 8 9<br>
-          Sample output:<br>
-          10<br>
+          Sample output:
+          10
           [Here ,highlighted  4 is located in the 2nd row and 1st column , 6 is located in the 2nd row  and 3rd column. ]<br>
 </li>
 <h6>9. Given an integer array A with size N and k. Write a program to find out how many pairs exist in array A whose sum is equal to k.</h6>
@@ -110,9 +110,9 @@ LQ  RQ<br>
            7 8<br>
            1 2 3 4 5 6 7<br>
 
-           Sample output:<br>
-           3<br>
-           [Here, 1+7=8, 2+6=8, 3+5=8 ]<br>
+           Sample output:
+           3
+           [Here, 1+7=8, 2+6=8, 3+5=8 ]
 </li>
 <h6>10.For a sorted array, which of the following algorithms will take less time ? Explain with examples.<br>
   i)Bubble sort.<br>
